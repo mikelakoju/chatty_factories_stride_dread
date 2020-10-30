@@ -6,4 +6,4 @@
 #### Pete Burnap, 
 #### Samuel Enwenede,
 #### Enoch Agyepong,
-#### Nicola Edwards1
+#### Nicola Edwards
