@@ -1,4 +1,4 @@
-# CHATTY FACTORIES STRIDE & DREAD ASSESEMENT
+# CHATTY FACTORIES STRIDE & DREAD THREAT ASSESEMENT
 ### This folder contains the Excel File which holds the in-depth analysis carried out on the Chatty Factories Concept by combining the STRIDE and DREAD threat models. 
 
 ## Authors:
